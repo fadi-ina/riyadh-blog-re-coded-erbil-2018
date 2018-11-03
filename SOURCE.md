@@ -14,20 +14,6 @@ IMAGE 1 ALT TEXT
 
 `Modern Transit`
 
-SMALLER SUB HEAD
-
-`Travel`
-
-PARAGRAPH 1
-
-`Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.`
-
-SMALLER SUB HEAD
-
-`History`
-
-PARAGRAPH 2
-
 ``
 
 IMAGE 2 FILE
@@ -36,7 +22,7 @@ IMAGE 2 FILE
 
 IMAGE 2 ALT TEXT
 
-`Riyadh Garden`
+``
 
 PARAGRAPH 3
 
